@@ -1,0 +1,11 @@
+Problem 1:
+Jan 15, 18, 19, 20, 21
+good: less room for error, larger backup history
+bad: a lot of backups maybe unneccessary, wasting space
+
+Problem 2:
+a) Class A
+b) 255.0.0.0 CIDR = /8
+c1) default gateway ip = 10.0.0.1
+c2) broadcast = 10.255.255.255
+
